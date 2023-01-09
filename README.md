@@ -22,6 +22,10 @@ Assignment 14 SVM-  https://github.com/Praveen916-R/Task_7_Guvi/blob/main/Assign
 
 
 
+Assignment 15 Decision Tree-  https://github.com/Praveen916-R/Task_7_Guvi/blob/main/Assignment_15_.ipynb
+
+
+
 Assignment 16 Random Forest-  https://github.com/Praveen916-R/Task_7_Guvi/blob/main/Assignment_16_.ipynb
 
 
